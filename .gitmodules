@@ -1,0 +1,3 @@
+[submodule "cosmosdb-mongo"]
+	path = cosmosdb-mongo
+	url = https://github.com/mkheck/cosmosdb-mongo
